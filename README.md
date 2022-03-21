@@ -21,3 +21,4 @@ lift and confidence of an item set.
 
 The overall goal of this project because unsupervised learning problems are hard to deal with ,so we can frame them as a supervised learning problem by using the above techniques.
 
+Added the R code for  recommender system which provides the tope ten recommendations for movies and the performance of this recommender is being evaluated on the basis of metrics such as Accuracy on unseen data and ROC curve.
